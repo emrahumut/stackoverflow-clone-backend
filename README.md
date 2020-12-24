@@ -8,3 +8,6 @@ Clone the source code:
 ## Project dependencies
 Install Node Packages:
 `npm install`
+
+## Starting the app
+Run `npm start` to start the application.
