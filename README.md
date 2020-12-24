@@ -5,3 +5,7 @@ This project is coded inspired by the features of [Stackoverflow](https://stacko
 Clone the source code:
 
 `https://github.com/emrahumut/stackoverflow-clone-backend.git`
+
+### Project dependencies
+Install Node Packages:
+`npm install`
